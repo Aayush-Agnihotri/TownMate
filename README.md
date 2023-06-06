@@ -6,7 +6,7 @@ TownMate is a cross-platform app that gives the user plenty of information about
 ### Installing TownMate
 1. Ensure you have Java installed locally on your machine
 2. Clone the repo from GitHub
-3. In your terminal, `cd` into the `TownMate/App` folder
+3. In your terminal, `cd` into the `TownMate/App` directory
 4. Run `javac App_Home.java`
 5. Run `java App_Home`
  
@@ -15,4 +15,4 @@ TownMate is a cross-platform app that gives the user plenty of information about
 We used Java, specifically the Java Swing framework, to create the desktop version of TownMate. The mobile version was built with Thunkable.
 
 ##### Back-end and Database
-We used Firebase to serve as our application's backend and database to store information.
+We used Airtable to serve as our application's backend and database to store information.
