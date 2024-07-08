@@ -1,5 +1,7 @@
 # TownMate
 
+<img src="https://aayush-agnihotri.me/images/townmate.png">
+
 ### Purpose
 TownMate is a cross-platform app that gives the user plenty of information about public transportation, recreational centers, restaurants, shopping malls, schools, and more. The built-in chat room, navigation system, and alterable schedule all help to enhance the user’s experience. The purpose of Townmate is to help people become more comfortable in their town by providing a single, convenient place for them to get information. Although it was designed for newcomers, Townmate can help natives as well.
 
